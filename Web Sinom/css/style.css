@@ -328,7 +328,7 @@ main aside {
   flex-direction: row;
   position: fixed;
   top: 40%;
-  bottom: 10%;
+  bottom: auto;
   right: 0;
   width: 30px;
   height: auto;
