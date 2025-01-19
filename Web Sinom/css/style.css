@@ -446,6 +446,8 @@ main aside {
   body{
     margin: 0;
     padding: 0;
+    width: 100%;
+    overflow: scroll;
   }
   main .content-beranda .content-image img{
     width: 350px;
